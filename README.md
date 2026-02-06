@@ -1,4 +1,4 @@
-# welcome to my live coding project site! :)
+# Welcome to my live coding project site! :)
 
 Below is the detailed information for each project:
 
